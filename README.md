@@ -5,7 +5,7 @@ I'm N0pe, the lead developer for Invictus RP. I focus mainly on building scripts
 
 Check out [Invictus RP Discord](https://discord.gg/TqUDwCp9tf) to join a new RP server!
 
-If you're interested in supporting me, you can do so here!
+Check out my [Tebex](https://invictusrp.tebex.io/) if you're interested in supporting me
 
 ## Skills and Experience
 *  🎮 Lua
