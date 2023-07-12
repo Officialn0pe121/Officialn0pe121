@@ -8,4 +8,4 @@ If you're interested in supporting me, you can do so here!
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Officialn0pe121)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Officialn0pe121)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
