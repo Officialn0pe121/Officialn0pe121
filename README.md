@@ -1,4 +1,4 @@
-![Design and Development](https://cdn.discordapp.com/attachments/1002771856161517628/1127312158972203168/standard_8.gif)
+![Design and Development]([https://cdn.discordapp.com/attachments/1002771856161517628/1127312158972203168/standard_8.gif](https://github.com/Officialn0pe121/Officialn0pe121/blob/main/banner.gif))
 # Hi there 👋
 
 I'm N0pe, the lead developer for Invictus RP. I focus mainly on building scripts for Fivem and RedM. Feel free to look through any available repositories and see if anything interests you. 
