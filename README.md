@@ -1,4 +1,4 @@
-<img align = "center" height = 200 src = "https://github.com/Officialn0pe121/Officialn0pe121/blob/main/banner.gif" width = 800 />
+<img align="center" height = 200 src = "https://github.com/Officialn0pe121/Officialn0pe121/blob/main/banner.gif" width = 800 />
 # Hi there 👋
 
 I'm N0pe, the lead developer for Invictus RP. I focus mainly on building scripts for Fivem and RedM. Feel free to look through any available repositories and see if anything interests you. 
