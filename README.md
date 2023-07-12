@@ -6,6 +6,6 @@ Check out Invictus RP Discord to join a new RP server!
 
 If you're interested in supporting me, you can do so here!
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Officialn0pe121)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Officialn0pe121&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Officialn0pe121&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
